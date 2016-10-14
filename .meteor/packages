@@ -24,6 +24,7 @@ fourseven:scss
 # ui
 static-html@1.1.12_1
 react-meteor-data
+less
 
 #data
 aldeed:simple-schema
@@ -46,3 +47,4 @@ simple:rest
 #security
 audit-argument-checks@1.0.7
 shell-server
+session

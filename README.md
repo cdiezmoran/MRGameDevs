@@ -1,2 +1,3 @@
-# MRGameDevs
-Platform for game developers, this project is not even in a starting point state. I'll update readme after it can be run and after we make user interviews.
+# MRGameDevs --- No name yet
+## Making play testing easy.
+Platform for game developers to easily upload their games and have other game developers or users they invite test it. It also makes it really easy for the user to give feedback but the platform alone will give really useful feedback.
